@@ -5,9 +5,81 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05d9da48-2514-45e3-87c5-ccd35d063231" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/app_debug.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/src/main/java/constants/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/src/main/java/drivers/SeleniumWebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/src/main/java/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/src/main/java/pages/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/src/main/java/stub/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/src/main/java/stub/src/StubMockServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/src/main/java/stub/src/configuration/CORSConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/src/main/java/stub/src/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/src/main/java/stub/src/entities/UserDetailEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/src/main/java/stub/src/entities/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/src/test/java/demo/Demo_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/target/classes/constants/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/target/classes/drivers/SeleniumWebDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/target/classes/pages/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/target/classes/pages/MainPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/target/classes/stub/src/StubMockServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/target/classes/stub/src/configuration/CORSConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/target/classes/stub/src/controllers/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/target/classes/stub/src/entities/UserDetailEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/target/classes/stub/src/entities/UserEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appiumProject/target/test-classes/demo/Demo_Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Page/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/src/main/java/Page/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Page/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/src/main/java/Page/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/ClickBeforeListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/src/main/java/utils/ClickBeforeListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/WebDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/src/main/java/utils/WebDriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/src/main/resources/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CourcesPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/src/test/java/CourcesPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Page/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/classes/Page/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Page/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/classes/Page/MainPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/classes/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/ClickBeforeListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/classes/utils/ClickBeforeListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/utils/WebDriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/classes/utils/WebDriverFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/CourcesPageTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/CourcesPageTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/Surefire suite/Surefire test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/Surefire suite/Surefire test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Surefire suite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/Surefire suite/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-CourcesPageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/TEST-CourcesPageTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/bullet_point.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/collapseall.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/failed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/jquery-3.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-CourcesPageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/junitreports/TEST-CourcesPageTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/navigator-bullet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/Surefire test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/old/Surefire suite/Surefire test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/old/Surefire suite/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/old/Surefire suite/groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/old/Surefire suite/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/old/Surefire suite/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/old/Surefire suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/old/Surefire suite/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/old/Surefire suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/reporter-output.html" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/old/Surefire suite/reporter-output.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/old/Surefire suite/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Surefire suite/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/old/Surefire suite/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/passed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/skipped.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/testng-failed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports1.css" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/testng-reports1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports2.js" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/testng-reports2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/surefire-reports/testng.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CourcesPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/webProject/target/test-classes/CourcesPageTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +101,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/appiumProject" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\al.romanyuk\IdeaProjects\Homework_423\appiumProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\al.romanyuk\IdeaProjects\Homework_423\webProject" />
+      <recent name="C:\Users\al.romanyuk\IdeaProjects\Homework_423" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
